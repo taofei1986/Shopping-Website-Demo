@@ -1,0 +1,71 @@
+﻿body {
+
+}
+
+#top {
+    margin:50px auto;
+    text-align: center;
+    font-size: xx-large;
+    width:1920px;
+    height: 328px;
+    background-image: url('../pic/DSC1667-Pano.jpg');
+    line-height: 2;
+}
+
+#navigation {
+        margin-left:50px;
+}
+
+#login {
+    margin-left:50px;
+    background-color:#eeeeee;
+    padding:5px 15px 5px 15px;
+    width:165px;
+    line-height: 1.8;
+}
+#loginMenu {
+    margin-left:50px;
+    background-color:#eeeeee;
+    padding:5px 15px 5px 15px;
+    width:165px;
+    line-height: 1.8;
+}
+
+#footer {
+    margin:20px auto;
+    padding:5px;
+    background-color:#aaaaaa;
+    text-align:center;
+    font-size:large;
+    width:1920px;
+    
+}
+
+#signUp {
+    margin-left:50px;
+}
+#newProductForm {
+    margin:0 auto;
+    padding:10px;
+    background-color:#eeeeee;
+    line-height: 2.5;
+    width: 800px;
+}
+#div_product {
+    margin:0 auto;
+    padding:10px;
+    background-color:#eeeeee;
+    width: 600px;
+}
+
+th {
+    width:150px;
+    background-color:#446292;
+}
+td {
+    text-align:center;
+    background-color:#ffffff;
+}
+
+
+
